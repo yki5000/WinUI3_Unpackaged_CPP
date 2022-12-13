@@ -7,6 +7,7 @@
 #include "MainWindow.g.cpp"
 #endif
 
+// Only includes needed for added code in MainWindow:MainWindow()
 #include <winrt/Microsoft.UI.Interop.h>
 #include <Microsoft.UI.Xaml.Window.h>
 #include <winrt/Microsoft.UI.Windowing.h>
